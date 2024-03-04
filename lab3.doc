@@ -1,0 +1,4 @@
+class Point:
+   """
+   Auto-complete for the docstring will appear here; tab to confirm
+   """
