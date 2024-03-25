@@ -9,4 +9,4 @@ git pull --rebase
 '''
 
 ## 上課教學
-[Lab](https://drive.google.com/file/d/1VbJf0k_hWzUK0Pw-tUSgQfn0Gb2w3_cm/view)
+[Lab2](https://drive.google.com/file/d/1VbJf0k_hWzUK0Pw-tUSgQfn0Gb2w3_cm/view)
