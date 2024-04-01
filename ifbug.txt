@@ -1,0 +1,11 @@
+1. Commit your changes
+git add tests/test_lec5_tuple.py
+git commit -m "Committing changes to test_lec5_tuple.py before merging"
+
+2. Stash your changes(temporarily save your changes)
+git stash
+git merge 304d962..007c4d5
+git stash pop
+
+3. Discard your changes
+git checkout -- tests/test_lec5_tuple.py
