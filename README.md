@@ -39,5 +39,14 @@ git rm <file>
 git rm -f <file>
 ```
 
+## 如何進入docker
+```
+source docker_run.sh
+```
+退出 ctrl+D 或是
+```
+exit
+```
+
 ## 上課教材
 [Lab2](https://drive.google.com/file/d/1VbJf0k_hWzUK0Pw-tUSgQfn0Gb2w3_cm/view)
